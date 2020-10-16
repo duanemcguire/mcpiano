@@ -7,20 +7,16 @@
         :show-caption="true"
         :show-light-box="false"
         :show-thumbs="false"
-      />
+        />
     </div>
 </template>
 <script>
 import Vue from 'vue'
-import LightBox from 'vue-image-lightbox'
 require('vue-image-lightbox/dist/vue-image-lightbox.min.css')
 export default {
-  components: {
-    LightBox,
-  },
   props: {
     media: {
-      type: Object,
+      type: Array,
       default: () => null
     },
     showThumbs: {
