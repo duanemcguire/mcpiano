@@ -18,7 +18,7 @@ Naturally after getting the saw up and running, I wanted to have a look at the a
 ![](/images/medium/2019-04-20-10.00.48-300x225.jpg)
 ![](/images/medium/2019-04-20-10.01.43-300x225.jpg)
 
-Pianos have lots of small wooden parts, and this saw will be at home in the shop.   My [recent post about trimming knuckles](/blog/2019-04-15-knuckle-trimming/) showed the process on the Delta Unisaw.   I had in mind to do it on this saw, but I didn't quite have it up and running when it was time to trim the knuckles.
+Pianos have lots of small wooden parts, and this saw will be at home in the shop.   My [recent post about trimming knuckles](/blog/knuckle-trimming/) showed the process on the Delta Unisaw.   I had in mind to do it on this saw, but I didn't quite have it up and running when it was time to trim the knuckles.
 
 I bought the saw from a printshop in Ogden a few weeks ago.   My intuition and a few internet clues suggest that the saw was made in the 1950s.   I replaced the old three phase motor with a new 1 HP single phase motor.  I was able to acquire a new blade for the saw, made to Hammond specifications, by [The Blade Manufacturing Company](http://www.blademfg.com/carbide-tipped-printers-saw-blades/) of Columbus Ohio.  Also included in the purchase but not pictured here is the very nice work hold-down clamp which is designed to hold very small pieces with clamping pressure very near to the blade.
 
