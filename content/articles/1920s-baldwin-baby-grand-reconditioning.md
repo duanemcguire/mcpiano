@@ -1,7 +1,7 @@
 ---
 title: "1920's Baldwin Baby Grand Reconditioning"
 date: "2015-09-13"
-img: "/images/small/1920Baldwin/022-Preliminary-alignment-of-hammers-and-backchecks.jpg"
+img: "/images/small/022-Preliminary-alignment-of-hammers-and-backchecks.jpg"
 category: [shop-work]
 media: [
   {
