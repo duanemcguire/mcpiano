@@ -5,7 +5,6 @@
            <contact-info />
         </div>
      </section>
-     <category-cloud :categories="categories" />
      <section id="custom_html-2" class="widget_text widget widget_custom_html">
         <div class="textwidget custom-html-widget"><img alt="photo of Duane McGuire" itemprop="image"  src="/images/Duane_McGuire_640.jpg?a=2"  ><br>
            Duane McGuire
@@ -27,12 +26,5 @@
   #sidebar{ max-width: 300px;}
 </style>
 <script>
-  export default {
-    props: {
-      categories: {
-        type: Object,
-        required: false
-      }
-    }
-}
+  export default {}
 </script>
