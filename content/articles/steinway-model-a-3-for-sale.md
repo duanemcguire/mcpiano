@@ -6,6 +6,7 @@ category: [pianos-for-sale]
 ---
 
 
+
 Originally manufactured in 1922, this model A-3 has lived an easy residential life. It's ivory keys and spruce soundboard are all original. In 2018, we replaced the worn original hammers with new Ronsen Weikert felt hammers. The original shanks were replaced with Wessel, Nickel, and Gross composite shanks.
 
 #### $21,000
