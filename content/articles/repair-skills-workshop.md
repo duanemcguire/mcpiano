@@ -2,7 +2,7 @@
 title: "Repair Skills Workshop"
 date: "2019-01-14"
 img: "/images/small/repair-skills-workshop/IMG_20190112_113252.jpg"
-category: [ptg]
+category: [ptg,presentations]
 media: [
   {
     "src": "/images/repair-skills-workshop/IMG_20190112_113252.jpg",

@@ -1,7 +1,7 @@
 ---
 title: "Repairing a Broken Console Piano Leg"
 date: "2014-02-07"
-img: "/images/small/console-leg-repair/beforeAfter.jpg"
+img: "/images/small/beforeAfter.jpg"
 category: [shop-work, case-repairs]
 media: [
   {

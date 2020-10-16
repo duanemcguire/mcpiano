@@ -2,7 +2,7 @@
 title: "Boring an upright hammer"
 date: "2015-01-06"
 img: "/images/small/Screenshot-from-2020-09-29-11-26-28.png"
-category: [shop-procedures]
+category: [shop-procedures,presentations]
 ---
 
 This video shows a field repair technique for boring an upright piano hammer for shank replacement.  This is the technique I use when working in customer's homes.

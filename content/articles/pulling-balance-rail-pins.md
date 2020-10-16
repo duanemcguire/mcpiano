@@ -2,7 +2,7 @@
 title: "Pulling balance rail pins"
 date: "2015-02-25"
 img: "/images/small/Screenshot from 2020-10-15 12-03-18.png"
-category: [shop-procedures]
+category: [shop-procedures,presentations]
 ---
 
 The right tool for the job isn't always obvious.

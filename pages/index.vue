@@ -2,13 +2,12 @@
 <div>
   <div class="container d-md-flex align-items-stretch">
     <div class="p-4 p-md-2 pt-5">
-      <h1 class="entry-title">Home</h1>
       <div class="entry-content">
         <p><b style="font-size: 1.1em;">McGuire Piano</b> specializes in the restoration and repair of pianos in Utah. We also offer a select number of pianos for sale which have been restored or reconditioned in our shop. </p>
       </div>
       <pianos-for-sale />
       <p></p>
-      <p style="clear: both">A piano is a complex instrument made with thousands of inter-related parts. At McGuire Piano we give careful attention to every part of the piano, so that it can perform at its best for you. If your piano isn&#8217;t what
+      <p style="clear: both">A piano is a complex instrument made with thousands of interrelated parts. At McGuire Piano we give careful attention to every part of the piano, so that it can perform at its best for you. If your piano isn&#8217;t what
         it once was, we can help! </p>
       <p>For repair, rebuilding or restoration of your piano, please contact us: </p>
       <contact-info />
