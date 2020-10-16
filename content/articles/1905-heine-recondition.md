@@ -1,7 +1,7 @@
 ---
 title: "1905 Heine Recondition"
 date: "2018-04-20"
-img: "/images/30768589_10215961530258293_90229339_o.jpg"
+img: "/images/small/30768589_10215961530258293_90229339_o.jpg"
 category:
   - shop-work
   - random-thoughts
@@ -12,11 +12,11 @@ I do love my job, especially when it's clear that my objectives are met. My obje
 This 1905 Heine upright came to my shop as a neglected and beat up piano, but with "good bones". For this piano, we erased years of wear with cleaning, repairs, and reconditioning.
 
 
-![](/images/30768589_10215961530258293_90229339_o.jpg)
+![](/images/medium/30768589_10215961530258293_90229339_o.jpg)
 
-![](/images/2018-04-19-15.58.27-1024x768.jpg)
+![](/images/medium/2018-04-19-15.58.27-1024x768.jpg)
 
-![](/images/2018-04-19-15.59.04-1024x768.jpg)
+![](/images/medium/2018-04-19-15.59.04-1024x768.jpg)
 
 Today, when I saw the customer fighting the tears, expressing joy in the result, and telling family stories of the music and the piano ... then I know my objectives were met.
 

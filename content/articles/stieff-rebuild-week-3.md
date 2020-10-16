@@ -1,7 +1,7 @@
 ---
 title: "Stieff Rebuild - Radial Arm Saw upgrade"
 date: "2015-03-23"
-img: "/images/b.jpg"
+img: "/images/small/b.jpg"
 category: [shop-procedures]
 ---
 

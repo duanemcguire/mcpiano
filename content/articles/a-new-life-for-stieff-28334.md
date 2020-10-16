@@ -1,11 +1,11 @@
 ---
 title: "A new life for Stieff 28334"
 date: "2015-03-05"
-img: "/images/325681601_5248e94d65_o.jpg"
+img: "/images/small/325681601_5248e94d65_o.jpg"
 category: [shop-work]
 ---
 
-![Charles Stieff Grand Piano 6'2" (1911)](/images/325681601_5248e94d65_o-1024x768.jpg)
+![Charles Stieff Grand Piano 6'2" (1911)](/images/medium/325681601_5248e94d65_o-1024x768.jpg)
 
 Charles Stieff Grand Piano 6'2" (1911)
 

@@ -1,7 +1,7 @@
 ---
 title: "Drill Press Chip Ejection"
 date: "2017-09-01"
-img: "/images/DSC00313.jpg"
+img: "/images/small/DSC00313.jpg"
 category: [shop-procedures]
 
 ---
@@ -10,10 +10,10 @@ When boring piano hammers, keeping chips away from the jig surface is a constant
 
 https://vimeo.com/232052873
 
-![](/images/DSC00313-1024x683.jpg)
+![](/images/medium/DSC00313-1024x683.jpg)
 
-![](/images/DSC00318-1024x683.jpg)
+![](/images/medium/DSC00318-1024x683.jpg)
 
 Here's the parts list:
 
-![](/images/partslist.jpg)
+![](/images/medium/partslist.jpg)

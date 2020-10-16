@@ -1,7 +1,7 @@
 ---
 title: "Glue for Piano Technicians"
 date: "2014-11-30"
-img: "/images/20141118_143035-scaled.jpg"
+img: "/images/small/20141118_143035-scaled.jpg"
 category: [presentations, ptg]
 ---
 

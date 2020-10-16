@@ -1,13 +1,13 @@
 ---
 title: "The Good Work"
 date: "2016-04-26"
-img: "/images/2016-04-26-11.10.31.jpg"
+img: "/images/small/2016-04-26-11.10.31.jpg"
 category: [random-thoughts]
 ---
 
 I paused for a moment in my work this morning to realize that I was doing exactly what I wanted to be doing.   Practicing the crafts of piano restoration fits me in such a fine way.   This morning I was doing key work on an 1880's Knabe grand, and while I applied my skill to restoration, I could pause to admire the work of craftsmen from 130 years ago.
 
-[![2016-04-26 11.10.31](/images/2016-04-26-11.10.31-1024x768.jpg)
+[![2016-04-26 11.10.31](/images/medium/2016-04-26-11.10.31-1024x768.jpg)
 
 James Michener is credited with the following:  
 

@@ -1,4 +1,3 @@
- - pianos for sale in sidebar
  - git repository
  - netlify deploy
  - search function

@@ -1,7 +1,7 @@
 ---
 title: "Repair Skills Workshop"
 date: "2019-01-14"
-img: "/images/repair-skills-workshop/IMG_20190112_113252.jpg"
+img: "/images/small/repair-skills-workshop/IMG_20190112_113252.jpg"
 category: [ptg]
 media: [
   {
@@ -25,4 +25,4 @@ media: [
 
 I recently hosted a  repair skills workshop at my shop on January 12, 2019.  Twelve piano technicians, members of the Piano Technicians Guild, gathered here for coaching on the repair skills tested in the Registered Piano Technician exams.  Many of the participants worked for the entire day. There was lots of knowledge sharing all around.
 
-![](/images/repair-skills-workshop/IMG_20190112_113252.jpg)
+![](/images/medium/repair-skills-workshop/IMG_20190112_113252.jpg)

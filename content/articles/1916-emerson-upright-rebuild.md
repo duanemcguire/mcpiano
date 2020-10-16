@@ -1,7 +1,7 @@
 ---
 title: "1916 Emerson Upright Rebuild"
 date: "2016-03-01"
-img: "/images/002-Arrival-at-shop-8-11-15-1024x576.jpg"
+img: "/images/small/002-Arrival-at-shop-8-11-15-1024x576.jpg"
 category: [shop-work]
 media: [
   {
@@ -42,11 +42,11 @@ media: [
 I recently had the pleasure of rebuilding an Emerson upright piano from 1916.  This particular piano had been in one family for the past 100 years.   As is often the case, a treasured family piano still looks wonderful, so my work on the case was simply to clean,  polish and replace some missing knobs.   The musical instrument, inside, however got a rather complete make-over!  With age it really wasn't sounding good or playing well.
 
 
-![002 Arrival at shop 8-11-15](/images/002-Arrival-at-shop-8-11-15-1024x576.jpg)
+![002 Arrival at shop 8-11-15](/images/medium/002-Arrival-at-shop-8-11-15-1024x576.jpg)
 
 
 Now when we open up the case of the 1916 Emerson, we see a new piano. How does it sound? Well the customer says it's wonderful! And I believe it's very close to what it was in 1916.
 
-![047 Completed hammer install](/images/047-Completed-hammer-install-1024x576.jpg)
+![047 Completed hammer install](/images/medium/047-Completed-hammer-install-1024x576.jpg)
 
 See more photos in slideshow:

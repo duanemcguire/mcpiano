@@ -1,7 +1,7 @@
 ---
 title: "Repairing a Broken Console Piano Leg"
 date: "2014-02-07"
-img: "/images/console-leg-repair/beforeAfter.jpg"
+img: "/images/small/console-leg-repair/beforeAfter.jpg"
 category: [shop-work, case-repairs]
 media: [
   {
@@ -59,6 +59,6 @@ The legs of a console or spinet piano are a very weak structure. Proper moving p
 
 Recently I was called upon to repair a console piano damaged by improper moving.
 
-![](/images/console-leg-repair/beforeAfter.jpg)
+![](/images/medium/beforeAfter.jpg)
 
  Process photos of the repair are shown here:

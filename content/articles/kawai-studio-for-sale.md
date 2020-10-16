@@ -1,7 +1,7 @@
 ---
 title: "Kawai Studio For Sale"
 date: "2017-02-11"
-img: "/images/Kawai_Studio_2.jpg"
+img: "/images/small/Kawai_Studio_2.jpg"
 category: [pianos-sold]
 media: [
   {
@@ -26,7 +26,7 @@ media: [
 
 Wishing you could afford a new Kawai Studio Piano?
 
-![](/images/kawai-studio/Kawai_Studio_2.jpg)
+![](/images/medium/Kawai_Studio_2.jpg)
 
 After complete reconditioning in my shop, this sweet Kawai studio plays like new. Smooth responsive touch. Lovely voicing. Full dynamic response. You can have it all -- except for a new piano price and except for a perfect finish. This piano was manufactured in 1973, and the case shows wear, but we've touched it up and polished it so that it looks good. Not showroom good, but living room good.
 

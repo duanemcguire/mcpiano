@@ -1,7 +1,7 @@
 ---
 title: "Sing or Dance - A Linguistic Distinction?"
 date: "2015-03-06"
-img: "/images/Your-brain-on-music.png"
+img: "/images/small/Your-brain-on-music.png"
 excerpt: In his book, "This is Your Brain on Music", Daniel J. Levitin an describes interesting aspect of the Sesotho language of South Africa
 category: [random-thoughts]
 ---

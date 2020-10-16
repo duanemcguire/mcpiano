@@ -1,7 +1,7 @@
 ---
 title: "Pulling balance rail pins"
 date: "2015-02-25"
-img: "/images/Screenshot from 2020-10-15 12-03-18.png"
+img: "/images/small/Screenshot from 2020-10-15 12-03-18.png"
 category: [shop-procedures]
 ---
 

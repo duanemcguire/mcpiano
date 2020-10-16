@@ -1,7 +1,7 @@
 ---
 title: "Steiff Rebuild - New sharps"
 date: "2018-09-04"
-img: "/images/2018-09-04-11.41.00.jpg"
+img: "/images/small/2018-09-04-11.41.00.jpg"
 category: [shop-work]
 ---
 
@@ -9,7 +9,7 @@ Quality is a collection of small details.  And for every piano, the first thing
 
 I enjoyed taking the time to ensure that the replacement sharps for this keyboard were second-to-none in fit and finish.
 
-[![New sharps for piano keys](/images/2018-09-04-11.41.00-1024x768.jpg)
+[![New sharps for piano keys](/images/medium/2018-09-04-11.41.00-1024x768.jpg)
 
 The new sharps are made of natural ebony and supplied by PianoTek Supply.   I was thrilled with the craftsmanship and uniformity of the product.   Fitting the the new sharps to the old key sticks proceeded as follows:
 
@@ -23,10 +23,10 @@ The new sharps are made of natural ebony and supplied by PianoTek Supply.   I 
 
 The picture below shows bolstering the keysticks with veneer, prior to final sanding and finish.
 
-[![Bolstering keysticks with veneer](/images/2018-09-03-16.30.57-1024x768.jpg)
+[![Bolstering keysticks with veneer](/images/medium/2018-09-03-16.30.57-1024x768.jpg)
 
  
 
 Installed on keyframe:
 
-[![piano keys sharps installed on keyframe](/images/2018-09-04-15.10.56-1024x768.jpg)
+[![piano keys sharps installed on keyframe](/images/medium/2018-09-04-15.10.56-1024x768.jpg)

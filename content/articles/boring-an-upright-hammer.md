@@ -1,7 +1,7 @@
 ---
 title: "Boring an upright hammer"
 date: "2015-01-06"
-img: "/images/Screenshot-from-2020-09-29-11-26-28.png"
+img: "/images/small/Screenshot-from-2020-09-29-11-26-28.png"
 category: [shop-procedures]
 ---
 

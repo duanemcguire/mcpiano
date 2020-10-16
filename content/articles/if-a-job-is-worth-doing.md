@@ -1,7 +1,7 @@
 ---
 title: "If a job is worth doing ..."
 date: "2015-05-30"
-img: "/images/made-on-honor.jpg"
+img: "/images/small/made-on-honor.jpg"
 category: [random-thoughts]
 ---
 
@@ -11,6 +11,6 @@ Yesterday I tuned a hundred year old McPhail upright piano. It was an absolute p
 
 While enjoying the job, I took a moment to look at McPhail's declaration of its commitment to quality, which was displayed on the plate of the piano:
 
-[![made-on-honor](/images/made-on-honor.jpg)
+[![made-on-honor](/images/medium/made-on-honor.jpg)
 
 The inscription clearly reads, "Made on Honor, Sold on Merit". I can only hope that my own work would meet the standards of McPhail in 1915. If a job is worth doing, it's worth doing well. \[fbcomments\]

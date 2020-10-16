@@ -1,7 +1,7 @@
 ---
 title: "Stieff Rebuild - Keyframe work"
 date: "2015-03-31"
-img: "/images/b-1.jpg"
+img: "/images/small/b-1.jpg"
 category: [shop-work]
 ---
 
@@ -13,14 +13,14 @@ Earlier, I completed woodwork and cleanup on the keyframe. This week, I installe
 
 Inserting nylon bushings in front rail with drill press arbor
 
-![](/images/b-1.jpg)
+![](/images/medium/b-1.jpg)
 
 The front rail got new key bushings. They were bushing close to tolerance, as that will be important when resurfacing the key sides.
 
-![](/images/b1.jpg)
+![](/images/medium/b1.jpg)
 
 Front rail bushed uniformly using Spurlock key bushing cauls
 
-![](/images/b2.jpg)
+![](/images/medium/b2.jpg)
 
 Along the way,some of the fragile sharp key mortises were replaced with new wood inserts and mortised

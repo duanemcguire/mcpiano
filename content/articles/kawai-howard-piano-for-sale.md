@@ -1,7 +1,7 @@
 ---
 title: "Kawai Howard Grand Piano"
 date: "2020-09-09"
-img: "/images/howard-kawai/DSC00682-scaled.jpg"
+img: "/images/small/DSC00682-scaled.jpg"
 category: [pianos-for-sale]
 excerpt: "I have enjoyed playing it immensely, and the piano has received rave reviews by other pianists."
 media: [
@@ -29,7 +29,7 @@ media: [
 
 I am pleased to offer this fully reconditioned 5' 10" grand piano. Upon completion of reconditioning work in my shop, I have enjoyed playing it immensely, and the piano has received rave reviews by other pianists.
 
-![](/images/IMG_20200908_191818G-936x1024.jpg)
+![](/images/medium/IMG_20200908_191818G-936x1024.jpg)
 
 The piano was originally manufactured by Kawai, in Japan, in 1968. This was a decade before the wide acceptance and dominance of Kawai and Yamaha in the U.S. piano market. For this model 550, Kawai licensed the Howard name for marketing through U.S. Baldwin dealers. It is vintage Kawai throughout.
 

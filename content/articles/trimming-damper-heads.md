@@ -1,7 +1,7 @@
 ---
 title: "Trimming Damper Heads"
 date: "2017-07-23"
-img: "/images/DSC00301.jpg"
+img: "/images/small/DSC00301.jpg"
 category: [shop-procedures]
 ---
 
@@ -9,8 +9,8 @@ I wanted to trim 4 mm from Tokiwa damper heads for better geometry in a 1927 Leo
 
 https://vimeo.com/226639912
 
-![](/images/DSC00301-1024x683.jpg)
+![](/images/medium/DSC00301-1024x683.jpg)
 
-![](/images/DSC00302-1024x683.jpg)
+![](/images/medium/DSC00302-1024x683.jpg)
 
-![](/images/DSC00303-1024x683.jpg)
+![](/images/medium/DSC00303-1024x683.jpg)

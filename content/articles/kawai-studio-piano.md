@@ -1,13 +1,13 @@
 ---
 title: "Kawai Studio Piano - SOLD"
 date: "2016-08-09"
-img: "/images/kawai.jpg"
+img: "/images/small/kawai.jpg"
 category: [pianos-sold]
 ---
 
 This Kawai studio piano was built in Japan in 1973. I recently completed reconditioning of this fine piano in my shop.
 
-![](/images/kawai-1024x768.jpg)
+![](/images/medium/kawai-1024x768.jpg)
 
 I have performed the following services on this piano:
 
@@ -30,4 +30,4 @@ Price: $1,950.00
 
 You'll find new prices for a similar piano from Kawai today at about $6000.
 
-[![2016-08-09 11.24.29](/images/2016-08-09-11.24.29-768x1024.jpg)
+[![2016-08-09 11.24.29](/images/medium/2016-08-09-11.24.29-768x1024.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Vintage 1916 Chickering Baby Grand"
 date: "2017-02-11"
-img: "/images/2017-02-04-12.35.33-scaled.jpg"
+img: "/images/small/2017-02-04-12.35.33-scaled.jpg"
 category: [pianosSold]
 media: [
   {
@@ -42,7 +42,7 @@ media: [
 
 **SOLD!**
 
-![](/images/2017-02-04-12.35.33-scaled.jpg)
+![](/images/medium/2017-02-04-12.35.33-scaled.jpg)
 
 Vintage 1916 Chickering baby grand piano is a delight! I've recently done signifcant reconditioning work on this piano in my shop. Work has included:  
 \- New keytops  

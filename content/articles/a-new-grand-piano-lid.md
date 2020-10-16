@@ -1,7 +1,7 @@
 ---
 title: "A new grand piano lid"
 date: "2019-02-07"
-img: "/images/KnabeLid.jpg"
+img: "/images/small/KnabeLid.jpg"
 category:
   - shop-work
   - case-repairs

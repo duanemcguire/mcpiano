@@ -26,7 +26,7 @@ The result is a class that takes the best parts of the previous program but exte
 
 “These twenty-four hours in intensive instruction really helped me to hone my skills in grand piano regulation,” said Duane. “A great deal of sensitivity is required with these skills, and that sensitivity is now sharper than ever.”
 
-![](/images/Duane37StepsCourse.jpg)
+![](/images/medium/Duane37StepsCourse.jpg)
 
 Duane McGuire with instructor Elizabeth Ward at PTG classroom in Kansas City
 

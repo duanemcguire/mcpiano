@@ -1,7 +1,7 @@
 ---
 title: "Knuckle trimming"
 date: "2019-04-15"
-img: "/images/2019-04-14-18.14.25-1024x768.jpg"
+img: "/images/small/2019-04-14-18.14.25-1024x768.jpg"
 category: [shop-procedures]
 ---
 
@@ -9,22 +9,22 @@ Knuckle trimming! I was pleased with the way this worked. I'm replacing knuckles
 
 
 
-![](/images/2019-04-14-18.10.04-1024x768.jpg)<BR/>11.7 mm knuckles on the left.  11.0 mm knuckles on the right.
+![](/images/medium/2019-04-14-18.10.04-1024x768.jpg)<BR/>11.7 mm knuckles on the left.  11.0 mm knuckles on the right.
 
 
-![](/images/2019-04-14-18.10.28-1024x768.jpg)<BR/>The trimming jig.  The screw at the bottom of the bore allows for micro adjustment.
-
-
-
-![](/images/2019-04-14-18.10.57-1024x768.jpg)<BR/>Ready for trimming
+![](/images/medium/2019-04-14-18.10.28-1024x768.jpg)<BR/>The trimming jig.  The screw at the bottom of the bore allows for micro adjustment.
 
 
 
-![](/images/2019-04-14-18.14.25-1024x768.jpg)<BR/>The jig set in the stopped miter gauge.
+![](/images/medium/2019-04-14-18.10.57-1024x768.jpg)<BR/>Ready for trimming
 
 
 
-![](/images/2019-04-14-18.15.51-1024x768.jpg)<BR/>0.7 mm shorter.
+![](/images/medium/2019-04-14-18.14.25-1024x768.jpg)<BR/>The jig set in the stopped miter gauge.
+
+
+
+![](/images/medium/2019-04-14-18.15.51-1024x768.jpg)<BR/>0.7 mm shorter.
 
 
 <video  width="600"  controls>
@@ -34,4 +34,4 @@ Knuckle trimming! I was pleased with the way this worked. I'm replacing knuckles
 
 
 
-![](/images/2019-04-14-19.07.23-1024x768.jpg)<BR/> Context:   11 mm knuckle below.  11.7 mm Renner parts above.
+![](/images/medium/2019-04-14-19.07.23-1024x768.jpg)<BR/> Context:   11 mm knuckle below.  11.7 mm Renner parts above.

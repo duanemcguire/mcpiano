@@ -1,13 +1,13 @@
 ---
 title: "Th Betting Studio Piano For Sale"
 date: "2019-05-18"
-img: "/images/2019-05-09-11.10.31.jpg"
+img: "/images/small/2019-05-09-11.10.31.jpg"
 category: [pianos-sold]
 ---
 
 SOLD!
 
-[![Th Betting Studio Piano](/images/2019-05-09-11.10.31-1024x768.jpg)
+[![Th Betting Studio Piano](/images/medium/2019-05-09-11.10.31-1024x768.jpg)
 
 This studio piano will be available in June, 2019. It has recently arrived in the shop and prior to sale it will have a complete reconditioning:
 
@@ -29,4 +29,4 @@ Shown by appointment. Call or text 801-896-4123. Email tuner@mcguirepiano.com
 
 **Price: $2,800**
 
-[![](/images/2019-05-09-11.10.15-1024x768.jpg)
+[![](/images/medium/2019-05-09-11.10.15-1024x768.jpg)
