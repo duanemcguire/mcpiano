@@ -1,0 +1,6 @@
+ - pianos for sale in sidebar
+ - git repository
+ - netlify deploy
+ - search function
+ - services category
+ - DELAY pagination for Blog DELAY
