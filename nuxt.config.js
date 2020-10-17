@@ -33,6 +33,7 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     'nuxt-responsive-loader',
+    '@nuxtjs/sitemap'
   ],
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
@@ -43,5 +44,14 @@ export default {
   server: {
     port: 3000,
     host: '0.0.0.0' // default: localhost
+  },
+  {
+  sitemap: {
+    hostname: 'https://mcguirepiano.com',
+    gzip: true,
+    exclude: [],
+    routes: [
+      '/blog/_slug.vue',
+    ]
   },
 }
