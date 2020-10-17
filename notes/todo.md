@@ -1,5 +1,4 @@
- - git repository
- - netlify deploy
  - search function
  - services category
- - DELAY pagination for Blog DELAY
+ - pagination 
+ - client side randomization of Thoughts on sidebar
