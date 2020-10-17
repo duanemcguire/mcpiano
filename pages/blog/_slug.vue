@@ -95,4 +95,9 @@ img {
   margin: 0 auto;
 
 }
+@media screen and (max-width: 800px) {
+  img{ max-width: 400px;}
+
+  }
+
 </style>

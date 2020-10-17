@@ -1,11 +1,11 @@
 <template>
 <div style="background-color: black" class="container d-md-flex align-items-stretch">
-  <div style="color: white" class="p-4 p-md-5 pt-5">
+  <div style="color: white" class="p-4 p-md-2 pt-5">
     <h2><a style="color: white;" href="/">McGuire Piano</a></h2>
     Piano Sales and Restoration by <BR />Duane McGuire, RPT
     <div></div>
   </div>
-  <div class="topnav p-4 p-md-5 pt-5" id="myTopnav">
+  <div class="topnav p-4 p-md-2 pt-5" id="myTopnav">
       <a href="/">Home</a>
       <a href="/blog">Blog</a>
       <a href="/category/pianos-for-sale">Pianos For Sale</a>
