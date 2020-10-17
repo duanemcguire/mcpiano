@@ -5,6 +5,7 @@ img: "/images/small/30768589_10215961530258293_90229339_o.jpg"
 category:
   - shop-work
   - random-thoughts
+excerpt: "A nice reconditioning job gets a great response."
 ---
 
 I do love my job, especially when it's clear that my objectives are met. My objectives? ... enabling the joy of music for my customers.

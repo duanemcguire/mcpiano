@@ -13,7 +13,7 @@
 
 <script>
 export default {
-  
+
   async asyncData({
     $content,
     params
@@ -33,6 +33,19 @@ export default {
       articles,
       categories
     }
-  }
+  },
+  head() {
+    return {
+       title: 'Blog - McGuire Piano',
+       meta: [
+         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+         {
+           hid: 'blog-index',
+           name: 'description',
+           content: 'Collection of blog posts about piano rebuilding and restoration'
+         }
+       ]
+     }
+   },
 }
 </script>

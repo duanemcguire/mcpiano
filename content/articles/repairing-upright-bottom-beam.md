@@ -3,6 +3,7 @@ title: "Repairing the Bottom Beam of an Upright Piano"
 date: "2020-10-09"
 img: "/images/small/2020-10-09-12.55.16.resized.jpg"
 category: [shop-work]
+excerpt: Showing some repair work to the back structure of an upright piano
 ---
 On this piano, my original mission was to replace the casters.  At some point, they had previously been replaced with 3" industrial casters.  That created a pedal height which was quite uncomfortable
 

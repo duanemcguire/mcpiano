@@ -2,6 +2,7 @@
 title: "A new grand piano lid"
 date: "2019-02-07"
 img: "/images/small/KnabeLid.jpg"
+excerpt: Woodworking skills -- Creating a new lid for a grand piano
 category:
   - shop-work
   - case-repairs

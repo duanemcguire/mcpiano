@@ -3,6 +3,7 @@ title: "1920's Baldwin Baby Grand Reconditioning"
 date: "2015-09-13"
 img: "/images/small/022-Preliminary-alignment-of-hammers-and-backchecks.jpg"
 category: [shop-work]
+excerpt: Reconditioning work on a 1920s Baldwin Grand piano
 media: [
   {
     src: "/images/1920Baldwin/0000-Hanging-Hammers.jpg",

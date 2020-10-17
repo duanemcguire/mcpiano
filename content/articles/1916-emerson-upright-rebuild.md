@@ -3,6 +3,7 @@ title: "1916 Emerson Upright Rebuild"
 date: "2016-03-01"
 img: "/images/small/002-Arrival-at-shop-8-11-15-1024x576.jpg"
 category: [shop-work]
+excerpt: The top section of the treble bridge had many cracks which were causing poor tonality
 media: [
   {
     src: '/images/032-Bridge-cap-notching-1024x576.jpg',

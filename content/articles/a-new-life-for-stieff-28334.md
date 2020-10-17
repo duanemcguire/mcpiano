@@ -3,6 +3,7 @@ title: "A new life for Stieff 28334"
 date: "2015-03-05"
 img: "/images/small/325681601_5248e94d65_o.jpg"
 category: [shop-work]
+excerpt: planning for the rebuild of Stieff Grand Piano no. 28334
 ---
 
 ![Charles Stieff Grand Piano 6'2" (1911)](/images/medium/325681601_5248e94d65_o-1024x768.jpg)

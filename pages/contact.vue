@@ -24,6 +24,18 @@
 </template>
 <script>
 export default {
-
+  head() {
+    return {
+       title: 'McGuire Piano Contact Information',
+       meta: [
+         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+         {
+           hid: 'contact-page',
+           name: 'description',
+           content: 'Contact information for McGuire Piano and Duane McGuire'
+         }
+       ]
+     }
+   }
 }
 </script>

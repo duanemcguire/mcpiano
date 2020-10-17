@@ -38,5 +38,18 @@ export default {
       articles,
     }
   },
+  head() {
+    return {
+       title: 'Blog Category: ' + this.category.name,
+       meta: [
+         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+         {
+           hid: 'category-collection',
+           name: 'description',
+           content: 'Collection of piano blog posts categorized as ' + this.category.name
+         }
+       ]
+     }
+   },
 }
 </script>
