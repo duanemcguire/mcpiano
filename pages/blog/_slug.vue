@@ -96,7 +96,7 @@ img {
 
 }
 @media screen and (max-width: 800px) {
-  img{ max-width: 400px;}
+  img{ max-width: 320px;}
 
   }
 
