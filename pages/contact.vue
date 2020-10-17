@@ -1,7 +1,7 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch">
-    <div class="p-4 p-md-2 pt-5">
+    <div>
       <article>
         <h1>Contact</h1>
         <div>

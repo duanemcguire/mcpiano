@@ -1,10 +1,10 @@
 <template>
 <div >
   <div class="container d-md-flex align-items-stretch">
-    <div class="p-4 p-md-2 pt-5">
-      <h1>{{ category.name }}</h1>
-      <div>
-        <b>Other Categories:</b>&nbsp;&nbsp;
+    <div >
+      <h1 style="font-size: 1.5em">{{ category.name }}</h1>
+      <div id="morecategories">
+        <b>All Categories:</b>&nbsp;&nbsp;
         <category-cloud :categories="categories" />
       </div>
       <blog-cards :articles="articles" />
@@ -23,6 +23,7 @@ export default {
     const category = await $content('categories', params.slug)
       .fetch()
     const categories = await $content('categories')
+      .sortBy('name', 'asc')
       .fetch()
     var articles = await $content('articles')
       .only(['title', 'img', 'slug', 'body', 'excerpt', 'category'])

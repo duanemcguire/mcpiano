@@ -1,3 +1,3 @@
 ---
-name: More
+name: _ Et Cetera
 ---

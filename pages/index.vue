@@ -1,7 +1,7 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch">
-    <div class="p-4 p-md-2 pt-5">
+    <div class="pt-2">
       <div class="entry-content">
         <p><b style="font-size: 1.1em;">McGuire Piano</b> specializes in the restoration and repair of pianos in Utah. We also offer a select number of pianos for sale which have been restored or reconditioned in our shop. </p>
       </div>

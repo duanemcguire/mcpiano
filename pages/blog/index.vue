@@ -1,10 +1,12 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch">
-    <div class="p-4 p-md-2 pt-5">
-      <h1>Blog</h1>
-      <b>Categories&nbsp;&nbsp;</b>
-      <category-cloud :categories="categories" />
+    <div class="">
+      <h1 style="font-size: 1.5em">Blog</h1>
+      <div id="morecategories">
+        <b>Categories&nbsp;&nbsp;</b>
+        <category-cloud :categories="categories" />
+      </div>
       <blog-cards :articles="articles" />
     </div>
   </div>
@@ -27,7 +29,9 @@ export default {
       .fetch()
 
 
-    const categories = await $content('categories').fetch()
+    const categories = await $content('categories')
+    .sortBy('name', 'asc')
+    .fetch()
 
     return {
       articles,
@@ -36,16 +40,16 @@ export default {
   },
   head() {
     return {
-       title: 'Blog - McGuire Piano',
-       meta: [
-         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
-         {
-           hid: 'blog-index',
-           name: 'description',
-           content: 'Collection of blog posts about piano rebuilding and restoration'
-         }
-       ]
-     }
-   },
+      title: 'Blog - McGuire Piano',
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: 'blog-index',
+          name: 'description',
+          content: 'Collection of blog posts about piano rebuilding and restoration'
+        }
+      ]
+    }
+  },
 }
 </script>
