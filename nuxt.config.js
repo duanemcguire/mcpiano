@@ -1,3 +1,7 @@
+import global from './utils/global';
+import getRoutes from './utils/getRoutes';
+import getSiteMeta from './utils/getSiteMeta';
+
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
@@ -45,13 +49,11 @@ export default {
     port: 3000,
     host: '0.0.0.0' // default: localhost
   },
-  {
   sitemap: {
-    hostname: 'https://mcguirepiano.com',
-    gzip: true,
-    exclude: [],
-    routes: [
-      '/blog/_slug.vue',
-    ]
+    hostname: global.siteUrl,
+    routes() {
+      return getRoutes();
+    }
   },
+
 }
