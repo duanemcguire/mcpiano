@@ -1,8 +1,8 @@
 <template>
 <div>
-  <div class="container d-md-flex align-items-stretch">
+  <div class="container d-md-flex align-items-stretch mt-3">
     <div>
-      <h1 style="font-size: 1.5em">{{ article.title }}</h1>
+      <h1 style="font-size: 1.9em"> {{ article.title }}</h1>
       <!--<prev-next :prev="prev" :next="next" />
       <BR />-->
       <div>{{article.date}}</div>

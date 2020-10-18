@@ -1,8 +1,8 @@
 <template>
 <div >
-  <div class="container d-md-flex align-items-stretch">
+  <div class="container d-md-flex align-items-stretch mt-3">
     <div >
-      <h1 style="font-size: 1.5em">{{ category.name }}</h1>
+      <h1 style="font-size: 1.9em">{{ category.name }}</h1>
       <div id="morecategories">
         <b>All Categories:</b>&nbsp;&nbsp;
         <category-cloud :categories="categories" />

@@ -25,11 +25,14 @@
   display: inline-block;
   margin-bottom: 0px;
 }
+#morecategories {
+  margin-bottom: 8px;
+}
 @media screen and (max-width: 800px) {
   #morecategories{
     float: right;
     position: relative;
-    top: -33px;
+    top: -40px;
     margin-bottom: 0px;
   }
   .tcloud{

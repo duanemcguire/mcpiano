@@ -1,6 +1,6 @@
 <template>
-<div style="background-color: black" class="container d-md-flex align-items-stretch">
-  <div style="color: white" class="p-2 p-md-2 pt-2">
+<div style="background-color: black" class="container d-md-flex align-items-stretch pb-2">
+  <div style="color: white" class="p-2 p-md-2 pt-2 ">
     <h2><a style="color: white;" href="/">McGuire Piano</a></h2>
     Piano Sales and Restoration by <BR />Duane McGuire, RPT
     <div></div>

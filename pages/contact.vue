@@ -1,12 +1,12 @@
 <template>
-<div>
-  <div class="container d-md-flex align-items-stretch">
-    <div>
+<div >
+  <div class="container d-md-flex align-items-stretch mt-3">
+    <div style="width: 100%">
       <article>
         <h1>Contact</h1>
         <div>
           <p><strong>Duane McGuire, RPT<br>McGuire Piano<br>1077 N 1285 W<br>Clinton, UT 84015<br></strong></p>
-          <H4>Repair, Rebuilding, Restoration:</h4>
+          <H4>Repair, Rebuilding, and Restoration:</h4>
           <b>Duane McGuire, RPT</b>
           <contact-info />
           <hr>

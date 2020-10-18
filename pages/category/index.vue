@@ -1,8 +1,8 @@
 <template>
 <div>
-  <div class="container d-md-flex align-items-stretch">
+  <div class="container d-md-flex align-items-stretch mt-3">
     <div >
-      <h1>Categories</h1>
+      <h1 style="font-size: 1.9em">Categories</h1>
       <div>
         <ul>
           <li v-for="cat of category" :key="category.slug">

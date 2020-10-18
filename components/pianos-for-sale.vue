@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h4>Pianos For Sale</h4>
+    <h3>Pianos For Sale</h3>
     <div style="float:left; margin-right:5px; margin-bottom: 10px; border: 2px solid black; padding: 2px">
       <a href="/blog/steinway-model-a-3-for-sale/">
         <figure class="wp-block-image size-medium">
