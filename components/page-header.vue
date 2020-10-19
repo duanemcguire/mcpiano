@@ -13,6 +13,7 @@
     <div id="header-piano" class="align-items-end"><img src="/images/header-piano.jpg" height="130px"  ></div>
   </div>
   <topnav id="mobile-topnav" />
+
 </div>
 </template>
 <style>
