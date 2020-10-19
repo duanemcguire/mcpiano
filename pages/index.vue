@@ -11,7 +11,8 @@
         it once was, we can help! </p>
       <p>For repair, rebuilding or restoration of your piano, please contact us: </p>
       <contact-info />
-      <p>We no longer offer routine piano tuning services. For piano tuning, we recommend qualified piano tuners here:&nbsp;<a href="/blog/other-tuners">other tuners</a>.</p>
+      <BR/>
+      <p><i>We no longer offer routine piano tuning services. For piano tuning, we recommend qualified piano tuners here:&nbsp;<a href="/blog/other-tuners">other tuners</a>.</i></p>
       <hr class="wp-block-separator" />
       <h2>Duane McGuire, Registered Piano Technician</h2>
       <p>Music, pianos, and technology have been lifelong passions for me. My work as a piano technician allows me to be immersed in all of these. With a nice shop to work in, with pianos inviting me to the work, and with customers enjoying my work,

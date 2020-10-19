@@ -18,6 +18,7 @@
   display: inline-block;
   border: 1px solid gray;
   margin-right: 5px;
-  background-color: #3d3d3d
+  background-color: #3d3d3d;
+  margin-bottom: 5px;
 }
 </style>
