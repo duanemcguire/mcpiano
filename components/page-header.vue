@@ -1,28 +1,36 @@
 <template>
-  <div class="container">
-    <div style="background-color: black" class="d-flex bd-highlight">
-
-      <div class="p-2 flex-fill bd-highlight">
-        <img src="https://deploy-preview-6--silly-hugle-024a14.netlify.app/images/header-logo.png" height="65">
-        <div style="color:white" class="p-1"><i>Piano Sales and Restoration by<BR/>Duane McGuire, RPT</i></div>
-      </div>
-
-      <div style="color: white" class="p-2 flex-fill bd-highlight">Flex item</div>
-
-      <div class="align-items-end"><img src="https://deploy-preview-6--silly-hugle-024a14.netlify.app/images/header-piano.png" height="130"></div>
+<div style="background-color: black" class="container">
+  <div class="d-flex bd-highlight align-items-end">
+    <div class="p-2 flex-fill bd-highlight">
+      <a href="/"><img alt="McGuire Piano" src="/images/header-logo.png" height="65"></a>
+      <div style="color:white" class="p-1"><i>Piano Sales and Restoration by<BR />Duane McGuire, RPT</i></div>
     </div>
+
+    <div id="not-mobile-topnav" style="color: white" class="p-2 flex-fill bd-highlight">
+      <topnav />
+    </div>
+
+    <div id="header-piano" class="align-items-end"><img src="/images/header-piano.png" height="130"></div>
+  </div>
+  <topnav id="mobile-topnav" />
 </div>
 </template>
 <style>
-.topnav a {
-  line-height: 1.2;
-  font-size: 0.8em;
-  padding: 3px;
-  text-transform: uppercase;
-  color: white;
-  display: inline-block;
-  border: 1px solid gray;
-  margin-right: 5px;
-  background-color: #3d3d3d
+#mobile-topnav {
+  display: none
+}
+
+@media screen and (max-width: 800px) {
+  #header-piano {
+    display: none;
+  }
+
+  #not-mobile-topnav {
+    display: none
+  }
+
+  #mobile-topnav {
+    display: block
+  }
 }
 </style>

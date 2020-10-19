@@ -1,5 +1,5 @@
 <template>
-<div>
+<div >
   <page-header />
   <Nuxt />
   <page-footer />
