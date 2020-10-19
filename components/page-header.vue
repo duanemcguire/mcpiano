@@ -10,7 +10,7 @@
       <topnav />
     </div>
 
-    <div id="header-piano" class="align-items-end"><img src="/images/header-piano.png" height="130" ></div>
+    <div id="header-piano" class="align-items-end"><img src="/images/header-piano.png" height="130px"  ></div>
   </div>
   <topnav id="mobile-topnav" />
 </div>
