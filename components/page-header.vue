@@ -1,20 +1,16 @@
 <template>
-<div style="background-color: black;" class="container row" >
-  <div style="color: white" class="p-2">
-    <img src="/images/header-logo.png" height="70"><BR />
-  <div  class="p-2">
-    <i>Piano Sales and Restoration by <BR />Duane McGuire, RPT</i>
-  </div>
-  <div class="topnav p-2" id="myTopnav">
-    <a href="/">Home</a>
-    <a href="/blog">Blog</a>
-    <a href="/category/pianos-for-sale">Pianos For Sale</a>
-    <a href="/contact">Contact</a>
-  </div>
-  <div  class="p-2">
-    <img height="125" src="/images/header-piano.png">
-  </div>
-</div>
+  <div class="container">
+    <div style="background-color: black" class="d-flex bd-highlight">
+
+      <div class="p-2 flex-fill bd-highlight">
+        <img src="https://deploy-preview-6--silly-hugle-024a14.netlify.app/images/header-logo.png" height="65">
+        <div style="color:white" class="p-1"><i>Piano Sales and Restoration by<BR/>Duane McGuire, RPT</i></div>
+      </div>
+
+      <div style="color: white" class="p-2 flex-fill bd-highlight">Flex item</div>
+
+      <div class="align-items-end"><img src="https://deploy-preview-6--silly-hugle-024a14.netlify.app/images/header-piano.png" height="130"></div>
+    </div>
 </div>
 </template>
 <style>
