@@ -36,7 +36,7 @@ media: [
       <meta itemprop="name" content="Kawai" />
     </div>
     <div itemprop="offers" itemtype="http://schema.org/Offer" itemscope>
-      <link itemprop="url" href="https://mcguirepiano.com/kawai-howard-piano-for-sale" />
+      <link itemprop="url" href="https://mcguirepiano.com/blog/kawai-howard-piano-for-sale" />
       <meta itemprop="itemCondition" content="https://schema.org/UsedCondition" />
       <meta itemprop="availability" content="https://schema.org/InStock" />
       <meta itemprop="price" content="10500.00" />
