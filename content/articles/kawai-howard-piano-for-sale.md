@@ -24,6 +24,28 @@ media: [
 ]
 
 ---
+<div>
+  <div itemtype="http://schema.org/Product" itemscope>
+    <meta itemprop="sku" content="kawai-howard" />
+    <meta itemprop="name" content="Kawai Howard 5-10 Grand Piano" />
+    <link itemprop="image" href="https://mcguirepiano.com/images/medium/IMG_20200908_191818G-936x1024.jpg" />
+    <link itemprop="image" href="https://mcguirepiano.com/images/howard-kawai/DSC00681-scaled_(1).jpg" />
+    <link itemprop="image" href="https://mcguirepiano.com/images/howard-kawai/DSC00682-scaled.jpg" />
+    <meta itemprop="description" content="Kawai-Howard grand piano rebuilt by McGuire Piano" />
+    <div itemprop="brand" itemtype="http://schema.org/Brand" itemscope>
+      <meta itemprop="name" content="Kawai" />
+    </div>
+    <div itemprop="offers" itemtype="http://schema.org/Offer" itemscope>
+      <link itemprop="url" href="https://mcguirepiano.com/kawai-howard-piano-for-sale" />
+      <meta itemprop="itemCondition" content="https://schema.org/UsedCondition" />
+      <meta itemprop="availability" content="https://schema.org/InStock" />
+      <meta itemprop="price" content="10500.00" />
+      <meta itemprop="priceCurrency" content="USD" />
+      <meta itemprop="priceValidUntil" content="2021-11-20" />
+    </div>
+  </div>
+</div>
+
 
 #### $10,500
 
