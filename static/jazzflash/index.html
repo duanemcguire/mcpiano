@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>JazzFlash: Practice sight reading jazz chord symbols</title>
+	<meta name="description" content="An app to practice sight reading jazz chord symbols ">
+	<meta name="author" content="Duane McGuire">
+	<meta name="theme-color" content="#B12A34">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:image" content="img/icons/icon-512x512.png">
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="manifest" href="manifest.json">
+	<script src="app.js?ver=1" defer></script>
+</head>
+<body style="font-family: arial">
+<div style="overflow:hidden">
+         <span style="font-weight:bold; font-size: 1.5em">A sequencer for jazz chord practice</span>
+         <div style="float:right"><a href="/" target="_blank">Home</a></div>
+      </div>
+      <div id="control"  
+         style=" padding: 2px; border: 1px solid black; width:100%; margin-bottom: 10px; overflow:hidden;">
+         <div style="margin-left: 4px; background-color: white; padding: 2px;  border: 1px solid black;  float: left; width: 120px;">
+            Chords:<BR>
+            <label for="chordType0">Major 7</label> 
+            <input type="checkbox" 
+               value="0" id="chordType0" 
+               name="chordType"  checked onchange="chordTypeChange(this)"><BR>
+            <label for="chordType1">Dominant 7 </label>
+            <input type="checkbox" 
+               value="1" 
+               id="chordType1" name="chordType"  onchange="chordTypeChange(this)"><BR>
+            <label for="chordType2">Minor 7 </label><input type="checkbox" value="2" id="chordType2" name="chordType"  onchange="chordTypeChange(this)"> <BR>
+            <label for="chordType3">Half-dim 7 </label><input type="checkbox" value="3" id="chordType3" name="chordType"  onchange="chordTypeChange(this)"> <BR>
+            <label for="chordType4">Dim 7 </label><input type="checkbox" value="4" id="chordType4" name="chordType"  onchange="chordTypeChange(this)"> <BR>
+         </div>
+         <div  style="margin-left: 4px; background-color: white; padding: 2px;  border: 1px solid black;  float: left; width: 120px;">
+            Sequence:<BR>
+            <label for="sequenceRandom">Random </label><input type="radio" value="random" name="sequence" checked  id="sequenceRandom" onchange="sequencechange(this)"><BR>
+            <label for="DirectionAsc">Ascending </label><input type="radio" value="1" name="sequence" id="DirectionAsc" onchange="sequencechange(this)"><BR>
+            <label for="DirectionDesc">Descending </label><input type="radio" value="-1" name="sequence" id="DirectionDesc" onchange="sequencechange(this)"><BR>
+         </div>
+         <div style="margin-left: 4px; padding: 2px;  border: 1px solid black; background-color: #C0C0C0; float: left; width: 120px;" id="intervalDiv">
+            Interval: <BR>
+            <label for="Interval1">Minor 2nd</label><input type="radio" value="1" id="Interval1" name="interval" onchange="intervalChange(this)" disabled> 				
+			<label for="Interval2">Major 2nd</label><input type="radio" value="2" id="Interval2" checked name="interval" onchange="intervalChange(this)" disabled>
+            <label for="Interval3">Minor 3rd</label><input type="radio" value="3" id="Interval3" name="interval" onchange="intervalChange(this)" disabled>
+            <label for="Interval4">Major 3rd</label><input type="radio" value="4" id="Interval4" name="interval" onchange="intervalChange(this)" disabled>
+            <label for="Interval5">Perfect 4th</label><input type="radio" value="5" id="Interval5" name="interval" onchange="intervalChange(this)" disabled>
+            <label for="Interval7">Perfect 5th</label><input type="radio" value="7" id="Interval7" name="interval" onchange="intervalChange(this)" disabled>
+         </div>
+         <div style="margin-left: 4px; padding: 2px;   float: left;" >
+            Use: up/down arrow keys, click on chord, AirTurn pedal
+         </div>
+      </div>
+	  <div style="height: 328px; cursor: pointer; font-size: 144px; width:400px; text-align: center; background-image: url('img/bg2.png')">
+      <div id="stuff"  style="cursor: pointer; padding-top: 70px; padding-bottom: 70px; font-size: 144px; width:400px; text-align: center; "></div>
+      </div>
+      <div>
+         Notes: Practice sight reading of jazz chord symbols by advancing the sequence with a foot tap to your <a href="https://www.airturn.com/products/airturn-duo-200" target="_blank" rel="noopener">AirTurn pedal.</a>  The app can also be used with the up and down arrow keys, or by a click or touch to the chord.   <BR><BR>
+For the next version of this app,  I anticipate adding a metronome feature which will advance chord sequences automatically  - <a href="mailto:duanemcguire@gmail.com" target="_blank" rel="noopener">Duane McGuire</a> <BR><BR>
+      </div></body>
+</html>
