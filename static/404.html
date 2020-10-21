@@ -1,46 +1,76 @@
 <html>
+
 <head>
-   <link rel="stylesheet" type="text/css", href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" , href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" />
   <style>
-  #mobile-topnav {
-    display: none
-  }
-
-  @media screen and (max-width: 800px) {
-    #header-piano {
-      display: none;
-    }
-
-    #not-mobile-topnav {
+    #mobile-topnav {
       display: none
     }
 
-    #mobile-topnav {
-      display: block
+    .topnav a {
+      line-height: 1.2;
+      font-size: 0.8em;
+      padding: 3px;
+      text-transform: uppercase;
+      white-space: pre;
+      color: white;
+      display: inline-block;
+      border: 1px solid gray;
+      margin-right: 5px;
+      background-color: #3d3d3d;
+      margin-bottom: 5px;
     }
-  }
+
+    @media screen and (max-width: 800px) {
+      #header-piano {
+        display: none;
+      }
+
+      #not-mobile-topnav {
+        display: none
+      }
+
+      #mobile-topnav {
+        display: block
+      }
+    }
   </style>
 </head>
+
 <body>
-<div style="background-color: black" class="container align-items-stretch">
-  <div class="d-flex bd-highlight align-items-end">
-    <div class="p-2 flex-fill bd-highlight">
-      <a href="/"><img alt="McGuire Piano" src="/images/header-logo-65H.png"></a>
-      <div style="color:white" class="p-1"><i>Piano Sales and Restoration by<BR />Duane McGuire, RPT</i></div>
-    </div>
+  <div style="background-color: black" class="container align-items-stretch">
+    <div class="d-flex bd-highlight align-items-end">
+      <div class="p-2 flex-fill bd-highlight">
+        <a href="/"><img alt="McGuire Piano" src="/images/header-logo-65H.png"></a>
+        <div style="color:white" class="p-1"><i>Piano Sales and Restoration by<BR />Duane McGuire, RPT</i></div>
+      </div>
 
-    <div id="not-mobile-topnav" style="color: white" class=" flex-fill bd-highlight">
-      <topnav />
-    </div>
+      <div id="not-mobile-topnav" style="color: white" class=" flex-fill bd-highlight">
+        <div class="topnav pt-3">
+          <a href="/">Home</a>
+          <a href="/blog">Blog</a>
+          <a href="/category/pianos-for-sale">Pianos For Sale</a>
+          <a href="/contact">Contact</a>
+        </div>
+      </div>
 
-    <div id="header-piano" class="align-items-end"><img src="/images/header-piano.jpg" height="130px"  ></div>
+      <div id="header-piano" class="align-items-end"><img src="/images/header-piano.jpg" height="130px"></div>
+    </div>
+    <div class="topnav pt-3" id="mobile-topnav">
+      <a href="/">Home</a>
+      <a href="/blog">Blog</a>
+      <a href="/category/pianos-for-sale">Pianos For Sale</a>
+      <a href="/contact">Contact</a>
+    </div>
   </div>
-  <topnav id="mobile-topnav" />
-</div>
-<div>
-  <H1>Not Found!</H1>
-  <div>
-    <b>Oops!</b> The page you requested was not found.
+  <div class="container d-md-flex align-items-stretch mt-3">
+    <div class="pt-2">
+      <H1>Not Found!</H1>
+      <div>
+        <b>Oops!</b> The page you requested was not found.
+      </div>
+    </div>
   </div>
 </body>
+
 </html>
