@@ -3,6 +3,7 @@ title: "Stieff Rebuild - Tear Down"
 date: "2015-06-17"
 img: "/images/small/4.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 Week 15? Yes. I made no progress on the project for the past 10 weeks. Oh my. Interruptions were a lot of customer work, a week at Renner Academy, and reconditioning of a Yamaha P22 for resale.
@@ -71,4 +72,4 @@ Preparing for soundboard removal. Glue joint was weakened with vinegar. It poppe
 
 The point of no return!
 
-\[fbcomments\]
+[More posts for this project](/tag/stieff)

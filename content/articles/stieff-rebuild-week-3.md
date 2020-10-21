@@ -3,6 +3,7 @@ title: "Stieff Rebuild - Radial Arm Saw upgrade"
 date: "2015-03-23"
 img: "/images/small/b.jpg"
 category: [shop-procedures]
+tags: [stieff]
 ---
 
 **Key work**  
@@ -22,3 +23,5 @@ I created a new flat table using torsion box construction.   The table is 8 fee
 1952 Delta-Milwaukee Radial Arm Saw in its new table
 
 This finely engineered saw is both special and remarkable.   It was purchased new in 1952 by my Dad, Harvey McGuire. It was  used in his shop until his passing in 2001.   1952 was also the year of my birth, so this saw and I share quite a bit! Happy 63rd birthday, old saw!
+
+[More posts for this project](/tag/stieff)

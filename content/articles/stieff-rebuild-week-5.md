@@ -3,6 +3,7 @@ title: "Stieff Rebuild - Gathering Resources"
 date: "2015-04-08"
 img: "/images/small/f-1.jpg"
 category: [random-thoughts]
+tags: [stieff]
 ---
 
 
@@ -16,3 +17,5 @@ A collection of hand made tools from Dana Mazzaglia
 
 
 These tools were made by [Dana Mazzaglia](http://mazzagliatools.com/). All are used in piano belly work. You go to the head of the class if you can name each and its function.
+
+[More posts for this project](/tag/stieff)

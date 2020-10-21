@@ -1,8 +1,9 @@
 ---
-title: "Steiff Rebuild - New sharps"
+title: "Stieff Rebuild - New sharps"
 date: "2018-09-04"
 img: "/images/small/2018-09-04-11.41.00.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 Quality is a collection of small details.  And for every piano, the first thing the pianist encounters is the keyboard.  For a high-end piano, the look and feel must be superb.  Inviting.
@@ -30,3 +31,5 @@ The picture below shows bolstering the keysticks with veneer, prior to final san
 Installed on keyframe:
 
 [![piano keys sharps installed on keyframe](/images/medium/2018-09-04-15.10.56-1024x768.jpg)
+
+[More posts for this project](/tag/stieff)

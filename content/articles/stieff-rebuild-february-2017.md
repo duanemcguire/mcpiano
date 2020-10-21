@@ -3,6 +3,7 @@ title: "Stieff Rebuild - Soundboard Preliminaries"
 date: "2017-02-28"
 img: "/images/small/2016-03-22-09.32.54.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 An update on the Rebuild of Stieff 28334 has been a long time in coming.   I've been disappointed with my inability to focus energy on the project!   But progress has been made.
@@ -30,3 +31,5 @@ The mockup continued by gluing "ribs" to "sound board".  A few issues were noti
 Below is the completed "trial soundboard" which fit well when placed back in the frame.
 
 ![](/images/medium/2017-02-13-08.38.54-1024x768.jpg)
+
+[More posts for this project](/tag/stieff)

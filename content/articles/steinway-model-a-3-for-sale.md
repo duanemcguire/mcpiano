@@ -3,6 +3,7 @@ title: "Steinway Model A3 Grand Piano"
 date: "2020-09-28"
 img: "/images/small/2017-03-03-15.28.02.jpg"
 category: [pianos-for-sale]
+tags: [steinway]
 ---
 <div>
   <div itemtype="http://schema.org/Product" itemscope>

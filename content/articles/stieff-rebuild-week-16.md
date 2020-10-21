@@ -3,6 +3,7 @@ title: "Stieff Rebuild – Leg Plates"
 date: "2015-06-28"
 img: "/images/small/3.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 The piano was prepared for its trip to the refinishing shop. It's there now. I anticipate its return late in August. New Wessel Nickel and Gross leg plates were installed. This makes the piano more predictable for movers, and certainly safer for everyone. One of the original leg plates was broken.
@@ -19,4 +20,4 @@ Some photos of interest:
 
 ![](/images/medium/5.jpg) Cleaned up the inner rim, paring away old soundboard residue
 
-\[fbcomments\]
+[More posts for this project](/tag/stieff)

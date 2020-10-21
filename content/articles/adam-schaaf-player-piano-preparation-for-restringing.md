@@ -3,6 +3,8 @@ title: "Adam Schaaf Player Piano - Preparation for Restringing"
 date: "2017-10-04"
 img: "/images/small/2017-10-01-11.56.21.jpg"
 category: [shop-work]
+tags: [adam schaaf]
+
 
 ---
 
@@ -25,3 +27,5 @@ After completing work on the bottom board and keyframe, I'm preparing the piano 
 - Soundboard cracks will be shimmed
 - Separated ribs will be re-glued to the soundboard
 - New tuning pin bushings will be installed.
+
+[More posts for this project](/tag/adam%20schaaf)

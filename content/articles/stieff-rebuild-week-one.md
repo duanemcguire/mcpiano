@@ -3,6 +3,7 @@ title: "Stieff Rebuild - the Beginning"
 date: "2015-03-07"
 img: "/images/small/DSC02323.JPG"
 category: [shop-work]
+tags: [stieff]
 ---
 
 New WNG parts for the action were ordered two years ago. The three photos in the sequence here compare new wippens to old. The new wippens will be installed with a tall heel, unlike what is pictured here.
@@ -32,3 +33,5 @@ The Stieff has a massive rim!
 Interestingly, the soundboard and ribs sit above the inner rim. Though I had been under this piano many times in the past ten years, I had not noticed that. While talking about the project at [WESTPAC](http://westpac-ptg.org/), [Dale Erwin](http://www.erwinspiano.com/) mentioned that quirk to me. Apparently he has quite a piano technology database stored in his head.
 
 ![](/images/medium/DSC02317.JPG)<BR/> Another view of the rim
+
+[More posts for this project](/tag/stieff)

@@ -1,8 +1,9 @@
 ---
-title: "Steinway A-3"
+title: "Welcome Steinway A-3"
 date: "2017-03-27"
 img: "/images/small/2017-03-03-15.28.02.jpg"
 category: [random-thoughts]
+tags: [steinway]
 ---
 
 ![](/images/medium/2017-03-03-15.28.02-1024x768.jpg)

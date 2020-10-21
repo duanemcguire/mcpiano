@@ -3,6 +3,8 @@ title: "Schillings and Sons:  Completion"
 date: "2020-07-20"
 img: "/images/small/DSC00594.jpg"
 category: [shop-work]
+tags: [schilling]
+
 ---
 
 This piano is ready to go home again.  It is performing well and looking good.  Final tasks were case renewal with my favorite tool for old finishes:  [Howard's Restor-a-finish](https://www.howardproducts.com/product/restor-a-finish/).   Also, I made a good repair to lower case damage that was incurred in a move at some point.
@@ -12,3 +14,5 @@ This piano is ready to go home again.  It is performing well and looking good.�
 \[video width="1440" height="1080" m4v="/wp-content/uploads/2020/07/mah00593\_4XIRkPOZ.compressed.m4v"\]\[/video\]
 
 A satisfaction test.
+
+[More posts for this project](/tag/schilling)

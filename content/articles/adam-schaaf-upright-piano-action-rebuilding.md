@@ -3,6 +3,7 @@ title: "Adam Schaaf Upright Piano - Action rebuilding"
 date: "2017-11-19"
 img: "/images/small/DSC00381.jpg"
 category: [shop-work]
+tags: [adam schaaf]
 
 ---
 
@@ -13,3 +14,5 @@ category: [shop-work]
 ![New treble dampers installed on Schaaf upright piano](/images/medium/DSC00384-1024x683.jpg)<BR/> The action brackets have been cleaned and painted for a fresh appearance. New treble dampers have been installed and regulated for uniform lift. At this point, The action rails and damper levers have been cleaned by blasting with corn cob grit. The wippen rail has not yet been re-installed. The old hammers have been removed, making damper work straight forward. This process emulates the original process order utilized in the factory 98 years ago.
 
 ![New Renner piano hammers custom bored for installation](/images/medium/DSC00385-1024x683.jpg)<BR/> New Renner hammers have been custom bored for installation.
+
+[More posts for this project](/tag/adam%20schaaf)

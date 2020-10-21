@@ -3,6 +3,7 @@ title: "Stieff Rebuild – Keyframe Preparation"
 date: "2015-03-17"
 img: "/images/small/e-1024x576.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 I completed some more work related to the key frame, and the mind is spinning with plans for the next steps. As I move ahead, I invite my piano technician friends to comment on what you see and infer here. It is only by using the best of the best ideas that I can hope to achieve excellence with this project.
@@ -41,3 +42,5 @@ While preparing to install new WNG keypins, I built a 6 foot table for the drill
 ![](/images/medium/2015-03-17-11.25.47-1024x576.jpg)
 
 Drillpress table
+
+[More posts for this project](/tag/stieff)

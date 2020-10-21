@@ -3,6 +3,7 @@ title: "Stieff Rebuild - Soundboard tapering and ribs"
 date: "2017-07-03"
 img: "/images/small/2017-02-27-14.41.18.jpg"
 category: [shop-work]
+tags: [stieff]
 ---
 
 The soundboard was tapered (diaphramized in Steinway terminology).   First contour lines were routed into the board, and then the board was sanded to the contour lines on the stroke sander.
@@ -26,3 +27,5 @@ Ribs were shaped to a radius of 60 feet, then glued to the soundboard using caul
 After the ribs were glued, a radius was planed onto the ribs.   This is a craftsman touch.   Few will ever crawl under the piano to inspect this detail.
 
 https://vimeo.com/223995580
+
+[More posts for this project](/tag/stieff)

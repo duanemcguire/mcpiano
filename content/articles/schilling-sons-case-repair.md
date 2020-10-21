@@ -3,6 +3,7 @@ title: "Schilling & Sons: Case repair"
 date: "2020-07-20"
 img: "/images/small/DSC00557.jpg"
 category: [shop-work,case-repairs]
+tags: [schilling]
 ---
 
 Amateur movers frequently damage the lower corner of upright pianos.  Shown here is my approach to repairing this damage on the Schilling and Sons piano.
@@ -48,3 +49,5 @@ Amateur movers frequently damage the lower corner of upright pianos.  Shown her
  
 
 ![](/images/medium/DSC00567-1024x683.jpg)<BR/> The repair after stain and a light spray of lacquer. With the grain lining up well, this repair will not be noticeable without getting down on the floor to look for it. It gets my passing grade.
+
+[More posts for this project](/tag/schilling)
