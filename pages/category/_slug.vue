@@ -7,7 +7,7 @@
         <b>All Categories:</b>&nbsp;&nbsp;
         <category-cloud :categories="categories" />
       </div>
-      <blog-cards :articles="articles" />
+      <blog-cards :blogs="blogs" />
     </div>
   </div>
 </div>
@@ -25,18 +25,18 @@ export default {
     const categories = await $content('categories')
       .sortBy('name', 'asc')
       .fetch()
-    var articles = await $content('articles')
+    var blogs = await $content('blog')
       .only(['title', 'img', 'slug', 'body', 'excerpt', 'category'])
       .fetch()
-    articles = articles
-      .filter(article => article.hasOwnProperty('category'))
-      .filter(article => article.category.includes(params.slug))
+    blogs = blogs
+      .filter(blog => blog.hasOwnProperty('category'))
+      .filter(blog => blog.category.includes(params.slug))
 
 
     return {
       category,
       categories,
-      articles,
+      blogs,
     }
   },
   head() {

@@ -7,7 +7,7 @@
         <b>Categories&nbsp;&nbsp;</b>
         <category-cloud :categories="categories" />
       </div>
-      <blog-cards :articles="articles" />
+      <blog-cards :blogs="blogs" />
     </div>
   </div>
 </div>
@@ -20,7 +20,7 @@ export default {
     $content,
     params
   }) {
-    var articles = await $content('articles', {
+    var blogs = await $content('blog', {
         text: true
       })
       .only(['title', 'description', 'img', 'slug', 'excerpt', 'body'])
@@ -30,11 +30,11 @@ export default {
 
 
     const categories = await $content('categories')
-    .sortBy('name', 'asc')
-    .fetch()
+      .sortBy('name', 'asc')
+      .fetch()
 
     return {
-      articles,
+      blogs,
       categories
     }
   },

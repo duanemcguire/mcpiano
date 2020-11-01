@@ -18,11 +18,11 @@ export default {
     $content,
     params
   }) {
-    var articles = await $content('articles')
+    var blogs = await $content('blog')
       .only(['tags'])
       .fetch()
-    articles = articles
-      .filter(article => article.hasOwnProperty('tags'))
+    blogs = blogs
+      .filter(blog => blog.hasOwnProperty('tags'))
 
     var allTags = []
     var allSlugs = []
@@ -30,7 +30,7 @@ export default {
     String.prototype.toProperCase = function () {
       return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
     }
-    articles.forEach(function(item){
+    blogs.forEach(function(item){
       item.tags.forEach(function(tag){
         if (!allSlugs.includes(tag)){
           allSlugs.push(tag)

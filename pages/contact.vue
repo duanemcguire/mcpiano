@@ -2,7 +2,7 @@
 <div >
   <div class="container d-md-flex align-items-stretch mt-3">
     <div style="width: 100%">
-      <article>
+      <blog>
         <h1>Contact</h1>
         <div>
           <p><strong>Duane McGuire, RPT<br>McGuire Piano<br>1077 N 1285 W<br>Clinton, UT 84015<br></strong></p>
@@ -16,7 +16,7 @@
             <li>Jerry Benson 801-872-3546 <a target="_blank" href="http://www.bensonpiano.com/">www.bensonpiano.com</a></li>
           </ul>
         </div>
-      </article>
+      </blog>
     </div>
     <sidebar />
   </div>

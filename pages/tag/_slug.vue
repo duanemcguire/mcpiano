@@ -3,7 +3,7 @@
   <div class="container d-md-flex align-items-stretch mt-3">
     <div >
       <h1 style="font-size: 1.9em">Tag: {{ tagname }}</h1>
-      <blog-cards :articles="articles" />
+      <blog-cards :blogs="blogs" />
     </div>
   </div>
 </div>
@@ -16,11 +16,11 @@ export default {
     $content,
     params
   }) {
-    var articles = await $content('articles')
+    var blogs = await $content('blog')
       .fetch()
-    articles = articles
-      .filter(article => article.hasOwnProperty('tags'))
-      .filter(article => article.tags.includes(params.slug))
+    blogs = blogs
+      .filter(blog => blog.hasOwnProperty('tags'))
+      .filter(blog => blog.tags.includes(params.slug))
 
     String.prototype.toProperCase = function () {
       return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
@@ -28,7 +28,7 @@ export default {
     const tagname = params.slug.toProperCase()
     return {
       tagname,
-      articles,
+      blogs,
     }
   },
   head() {

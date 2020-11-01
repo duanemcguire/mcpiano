@@ -1,18 +1,18 @@
 <template>
 <div>
-  <div v-for="article of articles" :key="article.slug" style="display: inline-block">
-    <blog-card :article="article" />
+  <div v-for="blog of blogs" :key="blog.slug" style="display: inline-block">
+    <blog-card :blog="blog" />
   </div>
 </div>
 </template>
 
 <script>
-  export default {
-    props: {
-      articles: {
-        type: Array,
-        required: true
-      }
+export default {
+  props: {
+    blogs: {
+      type: Array,
+      required: true
     }
   }
+}
 </script>

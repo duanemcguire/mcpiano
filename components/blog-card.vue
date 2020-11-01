@@ -1,11 +1,11 @@
 <template>
 <div class="blog-card card   ">
-  <a :href="'/blog/' + article.slug">
-    <img class="card-img-top img-fluid" :src="article.img" :alt="article.caption">
+  <a :href="'/blog/' + blog.slug">
+    <img class="card-img-top img-fluid" :src="blog.img" :alt="blog.caption">
   </a>
   <div class="card-body">
-    <a :href="'/blog/' + article.slug">
-      <h5 class="card-title">{{article.title}}</h5>
+    <a :href="'/blog/' + blog.slug">
+      <h5 class="card-title">{{blog.title}}</h5>
     </a>
     <div class="blog-card-excerpt">{{postExcerpt}}</div>
   </div>
@@ -49,7 +49,7 @@
 <script>
 export default {
   props: {
-    article: {
+    blog: {
       type: Object,
       required: true
     }
@@ -78,7 +78,7 @@ export default {
       }
       return str
     }
-    const description = excerptBuild(this.article, 100)
+    const description = excerptBuild(this.blog, 100)
     return {
       postExcerpt: description
     }
