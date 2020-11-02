@@ -28,3 +28,5 @@ However, when I examined the bottom of the piano for the bores needed to accept 
 
 
   ![](/images/medium/2020-10-09-16.01.27.resized.jpg)<BR/>  As good as new.   When doing repair work, I enjoy giving an old piano this level of respect.
+
+  ![](/images/medium/wing-and-sons-casters.jpg)<BR/> And finally, new quality casters are installed while the piano is on the tilter.
