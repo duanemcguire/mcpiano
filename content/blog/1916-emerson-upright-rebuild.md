@@ -4,7 +4,7 @@ date: "2016-03-01"
 img: "/images/small/002-Arrival-at-shop-8-11-15-1024x576.jpg"
 category: [shop-work]
 excerpt: The top section of the treble bridge had many cracks which were causing poor tonality
-media: [
+xmedia: [
   {
     src: '/images/032-Bridge-cap-notching-1024x576.jpg',
     caption: 'The top section of the treble bridge had many cracks which were causing poor tonality (false beats) in the sixth and seventh octaves.   Here  I`m preparing a new bridge cap which will provide the proper foundation for a "like new" sound.   (Take me back to 1916) '
@@ -49,5 +49,55 @@ I recently had the pleasure of rebuilding an Emerson upright piano from 1916.  
 Now when we open up the case of the 1916 Emerson, we see a new piano. How does it sound? Well the customer says it's wonderful! And I believe it's very close to what it was in 1916.
 
 ![047 Completed hammer install](/images/medium/047-Completed-hammer-install-1024x576.jpg)
+<HR />
 
-See more photos in slideshow:
+## More Photos
+
+<client-only>
+  <div style="max-width: 800px; ">
+    Swipe to scroll photos
+    <carousel :per-page="1" :mouse-drag="true" :autoplay="true" :autoplay-timeout="7000" :speed="500" :loop="true" :pagination-enabled="true" :autoplay-hover-pause="false" >
+      <slide>
+        <figure><img src='/images/032-Bridge-cap-notching-1024x576.jpg'>
+        <figcaption>The top section of the treble bridge had many cracks which were causing poor tonality (false beats) in the sixth and seventh octaves.   Here  I'm preparing a new bridge cap which will provide the proper foundation for a "like new" sound.   (Take me back to 1916) </figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/034-New-bridge-cap-installed-and-pinned-1024x576.jpg'>
+        <figcaption>The new bridge cap installed. The piano is now ready for restringing.</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/035-Restringing-Treble-1024x576.jpg'>
+        <figcaption>Restringing the treble section</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/036-Restringing-complete-1024x576.jpg'>
+        <figcaption>Restringing is complete</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/037-Installilng-new-key-bushings-1024x576.jpg'>
+        <figcaption>installation of new key bushings. Well fitted, low friction bushings are important for a good touch response when playing.</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/040-Installing-new-catcher-leather-ecsaine-1024x576.jpg'>
+        <figcaption>Reconditioning the hammer catchers with new buckskin. Actually the original material was buckskin; the new material is ecsaine. Ecsaine replicates the good points of buckskin, while eliminating its imperfections. Restoring this part enables the quick repetition of notes.</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/042-New-dampers-installed-in-restrung-piano-1024x576.jpg'>
+        <figcaption>New dampers are installed</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/045-Preparing-new-hammers-for-installation-1024x576.jpg'>
+        <figcaption>New Renner hammers are being prepared for custom boring.</figcaption>
+        </figure>
+      </slide>
+
+    </carousel>
+    </div>
+</client-only>

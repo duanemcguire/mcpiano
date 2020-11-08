@@ -4,7 +4,7 @@ date: "2020-09-09"
 img: "/images/small/DSC00682-scaled.jpg"
 category: [pianos-for-sale]
 excerpt: "I have enjoyed playing it immensely, and the piano has received rave reviews by other pianists."
-media: [
+xmedia: [
   {
     src: "/images/howard-kawai/DSC00681-scaled_(1).jpg",
     "caption": "Keyboard"
@@ -72,5 +72,35 @@ Utah State sales tax is applicable to purchase.
 Shown by appointment. Call or text 801-896-4123. Email tuner@mcguirepiano.com
 
 **Price: $10,500**
+<HR />
 
-More photos: 
+## More Photos
+
+
+<client-only>
+  <div style="max-width: 800px;">
+    Swipe to scroll photos
+    <carousel :per-page="1" :mouse-drag="true" :autoplay="true" :autoplay-timeout="7000" :speed="500" :loop="true" :pagination-enabled="true" :autoplay-hover-pause="false" >
+      <slide>
+        <figure><img src='/images/medium/howard-kawai/DSC00681-scaled_(1).jpg'>
+        <figcaption>Keyboard</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/medium/howard-kawai/DSC00682-scaled.jpg'>
+        <figcaption>Restrung by McGuire Piano</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/medium/howard-kawai/IMG_20200908_192147-scaled.jpg'>
+        <figcaption>Built by Kawai</figcaption>
+        </figure>
+      </slide>
+      <slide>
+        <figure><img src='/images/medium/howard-kawai/IMG_20200908_1924483-scaled.jpg'>
+        <figcaption></figcaption>
+        </figure>
+      </slide>
+    </carousel>
+    </div>
+</client-only>

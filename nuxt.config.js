@@ -25,7 +25,8 @@ export default {
   plugins: [
     '@/plugins/components',
     '@/plugins/lightbox.client',
-    { src: '~plugins/ga.js', mode: 'client' }
+    { src: '~plugins/ga.js', mode: 'client' },
+    { src: '~/plugins/vue-carousel', mode: 'client', ssr: false },
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
