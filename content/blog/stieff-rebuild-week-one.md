@@ -33,5 +33,3 @@ The Stieff has a massive rim!
 Interestingly, the soundboard and ribs sit above the inner rim. Though I had been under this piano many times in the past ten years, I had not noticed that. While talking about the project at [WESTPAC](http://westpac-ptg.org/), [Dale Erwin](http://www.erwinspiano.com/) mentioned that quirk to me. Apparently he has quite a piano technology database stored in his head.
 
 ![](/images/medium/DSC02317.JPG)<BR/> Another view of the rim
-
-[More posts for this project](/tag/stieff)

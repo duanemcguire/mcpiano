@@ -14,5 +14,3 @@ This piano is ready to go home again.Â  It is performing well and looking good.Â
 \[video width="1440" height="1080" m4v="/wp-content/uploads/2020/07/mah00593\_4XIRkPOZ.compressed.m4v"\]\[/video\]
 
 A satisfaction test.
-
-[More posts for this project](/tag/schilling)

@@ -11,5 +11,3 @@ I am grateful for my customers, and they are taking my time! The Stieff Rebuild 
 [![2015-07-21 10.19.48](/images/medium/2015-07-21-10.19.48-1024x576.jpg)
 
 The Sitka Spruce soundboard panels are beautiful, and one is just stunning with impressive flare in the grain.
-
-[More posts for this project](/tag/stieff)

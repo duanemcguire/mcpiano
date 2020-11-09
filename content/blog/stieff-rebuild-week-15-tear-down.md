@@ -71,5 +71,3 @@ Preparing for soundboard removal. Glue joint was weakened with vinegar. It poppe
 ![](/images/medium/10.jpg)
 
 The point of no return!
-
-[More posts for this project](/tag/stieff)

@@ -31,5 +31,3 @@ The mockup continued by gluing "ribs" to "sound board".  A few issues were noti
 Below is the completed "trial soundboard" which fit well when placed back in the frame.
 
 ![](/images/medium/2017-02-13-08.38.54-1024x768.jpg)
-
-[More posts for this project](/tag/stieff)

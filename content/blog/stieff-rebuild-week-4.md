@@ -25,5 +25,3 @@ Front rail bushed uniformly using Spurlock key bushing cauls
 ![](/images/medium/b2.jpg)
 
 Along the way,some of the fragile sharp key mortises were replaced with new wood inserts and mortised
-
-[More posts for this project](/tag/stieff)

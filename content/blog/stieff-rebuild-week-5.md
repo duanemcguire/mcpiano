@@ -17,5 +17,3 @@ A collection of hand made tools from Dana Mazzaglia
 
 
 These tools were made by [Dana Mazzaglia](http://mazzagliatools.com/). All are used in piano belly work. You go to the head of the class if you can name each and its function.
-
-[More posts for this project](/tag/stieff)

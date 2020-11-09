@@ -31,5 +31,3 @@ The picture below shows bolstering the keysticks with veneer, prior to final san
 Installed on keyframe:
 
 [![piano keys sharps installed on keyframe](/images/medium/2018-09-04-15.10.56-1024x768.jpg)
-
-[More posts for this project](/tag/stieff)

@@ -42,5 +42,3 @@ While preparing to install new WNG keypins, I built a 6 foot table for the drill
 ![](/images/medium/2015-03-17-11.25.47-1024x576.jpg)
 
 Drillpress table
-
-[More posts for this project](/tag/stieff)

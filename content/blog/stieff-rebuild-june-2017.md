@@ -27,5 +27,3 @@ Ribs were shaped to a radius of 60 feet, then glued to the soundboard using caul
 After the ribs were glued, a radius was planed onto the ribs.   This is a craftsman touch.   Few will ever crawl under the piano to inspect this detail.
 
 https://vimeo.com/223995580
-
-[More posts for this project](/tag/stieff)

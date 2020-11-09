@@ -13,5 +13,3 @@ I expect to have more time for the rebuild in November, after I finish the rebui
 The return trip brought home the case of the piano. The case has received a factory new (or better) hand rubbed lacquer finish. A work of art! The picture below doesn't quite do it justice, but you'll get the idea!
 
 [![The case of 6-3 Stieff 28334 grand piano after refinishing in hand rubbed lacquer](/images/medium/2015-09-07-08.35.12-1024x576.jpg)
-
-[More posts for this project](/tag/stieff)

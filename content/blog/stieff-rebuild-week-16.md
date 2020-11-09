@@ -19,5 +19,3 @@ Some photos of interest:
 ![](/images/medium/4.jpg) Installed.
 
 ![](/images/medium/5.jpg) Cleaned up the inner rim, paring away old soundboard residue
-
-[More posts for this project](/tag/stieff)
