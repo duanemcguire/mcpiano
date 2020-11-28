@@ -18,6 +18,7 @@
       </figure>
     </a>
   </div>
+  <!--
   <div class="pianoForSale">
     <a href="/blog/weber-baby-grand-piano-for-sale/">
       <figure>
@@ -26,6 +27,7 @@
       </figure>
     </a>
   </div>
+-->
   <BR style="clear: both" />
   <hr style="margin-bottom: 20px;" />
 </div>
