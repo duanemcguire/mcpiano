@@ -1,11 +1,13 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch mt-3">
-    <div>
+    <div id="article-content">
       <h1 style="font-size: 1.9em"> {{ blog.title }}</h1>
       <!--<prev-next :prev="prev" :next="next" />
       <BR />-->
-      <div>{{blog.date}}</div>
+      <div>
+        <time class="pubdate" :datetime="blog.date">{{blog.displayDate}}</time>
+      </div>
       <div>Category: {{catNames}}</div><BR />
       <nuxt-content :document="blog" />
       <div v-if="mediaPresent">
@@ -31,6 +33,9 @@ export default {
   }) {
     const blog = await $content('blog', params.slug).fetch()
     const categories = await $content('categories').fetch()
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    var d = new Date(blog.date + " 12:00:00")
+    blog.displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
 
     // Category extract
     var catName = ""

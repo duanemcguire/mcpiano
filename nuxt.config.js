@@ -14,6 +14,7 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://mcguirepiano.com/favicon.ico' },
     { rel: "stylesheet", type: "text/css", href: "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" },
     { rel: "stylesheet", type: "text/css", href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" },
+    { rel: "alternate", type: "application/rss+xml", href: "https://mcguirepiano.com/rss.xml" },
     ],
   },
   target: 'static',
