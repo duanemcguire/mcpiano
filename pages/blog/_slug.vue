@@ -48,6 +48,9 @@ export default {
         catNames.push(catName)
       })
     }
+    if(!blog.hasOwnProperty('canonical')){
+      blog.canonical = "https://mcguirepiano.com/blog/" + blog.slug
+    }
     catNames = catNames.toString().replace(",", ", ")
     if (catNames == '') catNames = "Uncategorized"
 
@@ -81,7 +84,11 @@ export default {
           name: 'description',
           content: this.blog.excerpt
         }
-      ]
+      ],
+      link: [{
+        rel: 'canonical',
+        href: this.blog.canonical
+      }, ]
     }
   },
 }

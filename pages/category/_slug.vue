@@ -27,6 +27,7 @@ export default {
       .fetch()
     var blogs = await $content('blog')
       .only(['title', 'img', 'slug', 'body', 'excerpt', 'category'])
+      .sortBy('date','desc')
       .fetch()
     blogs = blogs
       .filter(blog => blog.hasOwnProperty('category'))

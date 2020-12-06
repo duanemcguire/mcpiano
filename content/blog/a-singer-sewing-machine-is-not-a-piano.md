@@ -3,6 +3,7 @@ title: "A Singer Sewing Machine is not a Piano"
 date: "2020-09-18"
 img: /images/2020-09-18-15.13.40-1024x768.jpg
 category: [random-thoughts, shop-work, case-repairs]
+canonical: https://blog.duanemcguire.com/blog/a-singer-sewing-machine-is-not-a-piano
 ---
 
 A singer sewing machine is not a piano. But I accepted the challenge of restoring a sewing machine cabinet that had been badly water damaged. Water and veneered pieces do not go well together. That's especially true for old veneered panels that were glued with hot hide glue, which is still completely soluble in water decades after it has set.
