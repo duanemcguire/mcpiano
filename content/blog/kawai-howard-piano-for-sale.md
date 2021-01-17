@@ -2,7 +2,7 @@
 title: "Kawai Howard Grand Piano"
 date: "2020-09-09"
 img: "/images/small/DSC00682-scaled.jpg"
-category: [pianos-for-sale]
+category: [pianos-sold]
 excerpt: "I have enjoyed playing it immensely, and the piano has received rave reviews by other pianists."
 xmedia: [
   {
@@ -47,7 +47,7 @@ xmedia: [
 </div>
 
 
-#### $10,500
+#### <span style="text-decoration: line-through">$10,500</span> <span style="color: red;">SOLD!</span>
 
 I am pleased to offer this fully reconditioned 5' 10" grand piano. Upon completion of reconditioning work in my shop, I have enjoyed playing it immensely, and the piano has received rave reviews by other pianists.
 
@@ -71,7 +71,7 @@ Utah State sales tax is applicable to purchase.
 
 Shown by appointment. Call or text 801-896-4123. Email tuner@mcguirepiano.com
 
-**Price: $10,500**
+**Price: $10,500** (SOLD)
 <HR />
 
 ## More Photos

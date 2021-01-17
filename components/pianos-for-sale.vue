@@ -10,14 +10,6 @@
       </figure>
     </a>
   </div>
-  <div class="pianoForSale">
-    <a href="/blog/kawai-howard-piano-for-sale/">
-      <figure>
-        <img loading="lazy" width="300" src="/images/IMG_20200908_192029g-300x225.jpg" alt="" />
-        <figcaption>Kawai-Howard 5&#8217;10&#8221; (1968)</figcaption>
-      </figure>
-    </a>
-  </div>
   <!--
   <div class="pianoForSale">
     <a href="/blog/weber-baby-grand-piano-for-sale/">
