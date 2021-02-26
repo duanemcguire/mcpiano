@@ -1,7 +1,7 @@
 ---
 title: "Weber Baby Grand Piano"
 date: "2021-02-26"
-img: "/images/weber-wg150/resized/2021-02-25 17.47.49.resized.jpg"
+img: "/images/weber-wg150/small/2021-02-25 17.47.49.jpg"
 category: [pianos-for-sale]
 excerpt: "A small grand piano, expertly reconditioned to like new condition."
 ---
@@ -35,22 +35,30 @@ Shopping for a *new* baby grand?  STOP! This 2002 Weber baby grand is the ONE!  
 
 This Weber piano was manufactured by Young Chang in 2002
 
-Restoration work will included:
+Restoration work has included:
+- <B>&middot;</b> Cleaning of the high gloss burgandy finish.<BR/><BR/>
+- <B>&middot;</b> Restringing: We installed Mapes "International Gold" piano wire and Mapes custom copper wound bass strings. As part of the process we installed new plate bushings and nickel plated tuning pins.<BR/><BR/>
+- <B>&middot;</b> New Hammers: We installed new Renner hammers and shanks as used in fine European pianos.  Coupled with the new strings, the result is a rich, satisfying tone.<BR/><BR/>
+- <B>&middot;</b> Touch weight refinement and regulation: We fine-tuned touch weight to concert specifications. With the re-balanced keyboard and fine regulation, pianists can enjoy even, controllable response throughout the dynamic range of the instrument.<BR/><BR/>
 
-- Cleaning of the high gloss burgandy finish.
-- Restringing: We installed Mapes "International Gold" piano wire and Mapes custom copper wound bass strings. As part of the process we installed new plate bushings and nickel plated tuning pins.
-- New Hammers: We installed new Renner hammers and shanks as used in fine European pianos.  Coupled with the new strings, the result is a rich, satisfying tone.
-- Touch weight refinement and regulation: We fine-tuned touch weight to concert specifications. With the re-balanced keyboard and fine regulation, pianists can enjoy even, controllable response throughout the dynamic range of the instrument.
+This quick phone video reveals some of the artistic capabilities of the piano:
 
-Our work objective on this small grand, quite simply, was to make it better than new! Careful attention was given to every component of the piano.  Though this instrument was manufactured for an entry-level price.  In our recondtioning work, we are surpassing the manufacturing specifications to deliver a small piano of remarkable quality.  
+<video  width="600"  controls>
+  <source src="/videos/Weber-WG150-trimmed.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><BR/>
 
-Here, we've asserted that this piano is better than new, and know that is true when compared to its original manufacture.  However, to be fair and to compare apples to apples, the Weber WG-150 model was completely redesigned by master designer Del Fandrich in 2008.   The redesign produced a piano far superior to the 2002 edition.  Our work has incorporated some of the elements of Mr. Fandrich's redesign.
+<BR/>
+Our work objective on this small grand was to make it better than new! Careful attention was given to every component of the piano.  This instrument was manufactured for an entry-level price, and through our recondtioning work, we have surpassed the manufacturing specifications to deliver a small piano of remarkable quality.  
 
-This lovely  Weber piano is offered for sale at $6,250.   Price includes the bench shown, in-home tuning, and standard delivery along the Wasatch Front.   
+Compared to its original manufacture, this piano is better than new.  But to compare apples to apples, please note: the Weber WG-150 model was completely redesigned by master designer Del Fandrich in 2008.   The redesign produced a piano far superior to the 2002 edition.  Our work on this 21 year old piano has incorporated some of the elements of Mr. Fandrich's redesign.
 
-Utah State sales tax is applicable to purchase.
+This lovely  Weber piano is offered for sale at $6,250.   The price includes the bench shown, in-home tuning, and standard delivery along the Wasatch Front.   
+
+Utah State sales tax is applicable to the purchase.
 
 Shown by appointment. Call or text 801-896-4123. Email tuner@mcguirepiano.com
+
 
 **Price: $6,250**
 

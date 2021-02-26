@@ -3,6 +3,14 @@
   <hr>
   <h3>Pianos For Sale</h3>
   <div class="pianoForSale">
+    <a href="/blog/weber-baby-grand-piano-for-sale/">
+      <figure>
+        <img loading="lazy" width="300" src="/images/weber-wg150/small/2021-02-25%2017.47.49.jpg" alt="Steinway Model A3 (1922)">
+        <figcaption>Weber WG-150 Baby Grand (2002)</figcaption>
+      </figure>
+    </a>
+  </div>
+  <div class="pianoForSale">
     <a href="/blog/steinway-model-a-3-for-sale/">
       <figure>
         <img loading="lazy" width="300" src="/images/2017-03-03-15.28.02-300x225.jpg" alt="Steinway Model A3 (1922)">
