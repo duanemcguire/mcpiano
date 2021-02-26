@@ -50,6 +50,7 @@ This quick phone video reveals some of the artistic capabilities of the piano:
 
 <BR/>
 Our work objective on this small grand was to make it better than new! Careful attention was given to every component of the piano.  This instrument was manufactured for an entry-level price, and through our recondtioning work, we have surpassed the manufacturing specifications to deliver a small piano of remarkable quality.  
+<BR/><BR/>
 
 Compared to its original manufacture, this piano is better than new.  But to compare apples to apples, please note: the Weber WG-150 model was completely redesigned by master designer Del Fandrich in 2008.   The redesign produced a piano far superior to the 2002 edition.  Our work on this 21 year old piano has incorporated some of the elements of Mr. Fandrich's redesign.
 
