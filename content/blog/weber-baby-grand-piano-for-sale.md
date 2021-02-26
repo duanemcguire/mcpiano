@@ -44,7 +44,7 @@ Restoration work has included:
 This quick phone video reveals some of the artistic capabilities of the piano:
 
 <video  width="600"  controls>
-  <source src="/videos/Weber-WG150-trimmed.mp4" type="video/mp4">
+  <source src="/videos/Weber-WG150-condensed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><BR/>
 
