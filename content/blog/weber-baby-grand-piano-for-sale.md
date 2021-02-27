@@ -36,7 +36,7 @@ Shopping for a *new* baby grand?  STOP! This 2002 Weber baby grand is the ONE!  
 This Weber piano was manufactured by Young Chang in 2002
 
 Restoration work has included:
-- <B>&middot;</b> Cleaning of the high gloss burgandy finish.<BR/><BR/>
+- <B>&middot;</b> Cleaning of the high gloss burgundy finish.<BR/><BR/>
 - <B>&middot;</b> Restringing: We installed Mapes "International Gold" piano wire and Mapes custom copper wound bass strings. As part of the process we installed new plate bushings and nickel plated tuning pins.<BR/><BR/>
 - <B>&middot;</b> New Hammers: We installed new Renner hammers and shanks as used in fine European pianos.  Coupled with the new strings, the result is a rich, satisfying tone.<BR/><BR/>
 - <B>&middot;</b> Touch weight refinement and regulation: We fine-tuned touch weight to concert specifications. With the re-balanced keyboard and fine regulation, pianists can enjoy even, controllable response throughout the dynamic range of the instrument.<BR/><BR/>
@@ -49,7 +49,7 @@ This quick phone video reveals some of the artistic capabilities of the piano:
 </video><BR/>
 
 <BR/>
-Our work objective on this small grand was to make it better than new! Careful attention was given to every component of the piano.  This instrument was manufactured for an entry-level price, and through our recondtioning work, we have surpassed the manufacturing specifications to deliver a small piano of remarkable quality.  
+Our work objective on this small grand was to make it better than new! Careful attention was given to every component of the piano.  This instrument was manufactured for an entry-level price, and through our reconditioning work, we have surpassed the manufacturing specifications to deliver a small piano of remarkable quality.  
 <BR/><BR/>
 
 Compared to its original manufacture, this piano is better than new.  But to compare apples to apples, please note: the Weber WG-150 model was completely redesigned by master designer Del Fandrich in 2008.   The redesign produced a piano far superior to the 2002 edition.  Our work on this 21 year old piano has incorporated some of the elements of Mr. Fandrich's redesign.
