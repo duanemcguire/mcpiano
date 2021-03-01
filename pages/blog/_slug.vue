@@ -48,7 +48,7 @@ export default {
         catNames.push(catName)
       })
     }
-    if(!blog.hasOwnProperty('canonical')){
+    if (!blog.hasOwnProperty('canonical')) {
       blog.canonical = "https://mcguirepiano.com/blog/" + blog.slug
     }
     catNames = catNames.toString().replace(",", ", ")
@@ -83,6 +83,11 @@ export default {
           hid: this.blog.slug,
           name: 'description',
           content: this.blog.excerpt
+        },
+        {
+          hid: 'main-image',
+          name: 'og:image',
+          content: this.blog.img
         }
       ],
       link: [{

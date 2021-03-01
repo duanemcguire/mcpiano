@@ -48,7 +48,13 @@ export default {
           hid: 'blog-index',
           name: 'description',
           content: 'Collection of blog posts about piano rebuilding and restoration'
-        }
+        },
+        {
+          hid: 'main-image',
+          name: 'og:image',
+          content: 'https://mcguirepiano.com/images/medium/2017-03-03-15.28.02-1024x768.jpg'
+        },
+
       ]
     }
   },
