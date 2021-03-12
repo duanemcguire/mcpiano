@@ -29,7 +29,7 @@ excerpt: "A small grand piano, expertly reconditioned to like new condition."
 
 #### $6,250
 
-Shopping for a *new* baby grand?  STOP! This 2002 Weber baby grand is the ONE!  We've given this entry level grand piano an extreme make-over, and it is simply better than new.  
+Shopping for a *new* baby grand?  STOP! This 2002 Weber baby grand is the ONE!  We've given this small grand piano an extreme make-over, and it is simply better than new.  
 
 ![](/images/weber-wg150/resized/2021-02-25%2017.47.49.resized.jpg)<BR>
 
@@ -54,7 +54,7 @@ Our work objective on this small grand was to make it better than new! Careful a
 
 Compared to its original manufacture, this piano is better than new.  But to compare apples to apples, please note: the Weber WG-150 model was completely redesigned by master designer Del Fandrich in 2008.   The redesign produced a piano far superior to the 2002 edition.  Our work on this 21 year old piano has incorporated some of the elements of Mr. Fandrich's redesign.
 
-This lovely  Weber piano is offered for sale at $6,250.   The price includes the bench shown, in-home tuning, and standard delivery along the Wasatch Front.   
+This lovely  Weber piano is offered for sale at $6,250. At 4'11" in length it will fit in any home.  The price includes the bench shown, in-home tuning, and standard delivery along the Wasatch Front.   
 
 Utah State sales tax is applicable to the purchase.
 
