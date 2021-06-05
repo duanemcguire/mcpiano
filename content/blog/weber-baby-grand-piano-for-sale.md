@@ -27,7 +27,7 @@ excerpt: "A small grand piano, expertly reconditioned to like new condition."
 </div>
 
 
-#### <span style="text-decoration: line-through">$6,250</span> <span style="color: red;">SOLD!</span>
+#### $6,250
 
 Shopping for a *new* baby grand?  STOP! This 2002 Weber baby grand is the ONE!  We've given this small grand piano an extreme make-over, and it is simply better than new.  
 
@@ -61,7 +61,7 @@ Utah State sales tax is applicable to the purchase.
 Shown by appointment. Call or text 801-896-4123. Email tuner@mcguirepiano.com
 
 
-**Price: $6,250** (SOLD)
+**Price: $6,250** 
 
 ## More Photos
 
