@@ -2,7 +2,7 @@
 title: "Weber Baby Grand Piano"
 date: "2021-02-26"
 img: "/images/weber-wg150/small/2021-02-25 17.47.49.jpg"
-category: [pianos-sold]
+category: [pianos-for-sale]
 excerpt: "A small grand piano, expertly reconditioned to like new condition."
 ---
 <div>
